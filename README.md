@@ -79,20 +79,20 @@
 - Data Cleaning & Preprocessing  
 - EDA (Exploratory Data Analysis)  
 - Version Control (Git)  
-- ML models integration
-- AWS codger 
+- ML models integration  
+- AWS codger  
 
 ---
 
 # 🚀 Currently working on
 
-### 🤖 AI Finance Analysis
+### 🤖 AI Finance Analysis  
 Smart assistant for finance questions, budgeting & expense insights.
 
-### 📊 Retail Analytics Dashboard
+### 📊 Retail Analytics Dashboard  
 Interactive KPIs, visualizations, trend analysis.
 
-### 🧠 Machine Learning Model Suite
+### 🧠 Machine Learning Model Suite  
 Regression, classification, clustering models.
 
 ---
@@ -119,9 +119,17 @@ Regression, classification, clustering models.
 
 ---
 
+# 📈 GitHub Contribution Graph
+<p align="center">
+  <img src="https://ghchart.rshah.org/abdulakmalallam30" />
+</p>
+
+
+---
+
 # 🤝 Connect With Me  
 <p align="center">
-  <a href="mailto:your-akmalalaam30@gmail.com">
+  <a href="mailto:akmalalaam30@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="#">
@@ -132,4 +140,3 @@ Regression, classification, clustering models.
 ---
 
 <p align="center">⭐ If you like my work, consider giving my repositories a star!</p>
-vv
